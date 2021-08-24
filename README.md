@@ -1,8 +1,8 @@
 # Assignment0
 
-This read me and associated assignment are adapted from [github.com/ContextLab/psyc32-hello-world/](Jeremey Manning's Psych 32 Assignment Hello, World!)
+This read me and associated assignment are adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/)
 
-This is a template repository for **Introductory Experimental Physics Python Assignment 0**.  All of the assignment instruction are in the Jupyter (.ipynb) notebook.  To begin, open (click) the `hello_world_assignment.ipynb` notebook and then click on the blue "Open in Colab" button at the top.  A new tab or window should open in your browser, displaying the notebook in Google Colaboratory.
+This is a template repository for **Introductory Experimental Physics Python Assignment 0**.  All of the assignment instruction are in the Jupyter (.ipynb) notebook.  To begin, open (click) the `Assignment0.ipynb` notebook and then click on the blue "Open in Colab" button at the top.  A new tab or window should open in your browser, displaying the notebook in Google Colaboratory.
 
 # Setup and submission
 
